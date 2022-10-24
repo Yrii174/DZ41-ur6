@@ -1,0 +1,15 @@
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\bin\Debug\net6.0\DZ41-ur6.exe
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\bin\Debug\net6.0\DZ41-ur6.deps.json
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\bin\Debug\net6.0\DZ41-ur6.runtimeconfig.json
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\bin\Debug\net6.0\DZ41-ur6.dll
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\bin\Debug\net6.0\DZ41-ur6.pdb
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\obj\Debug\net6.0\DZ41-ur6.csproj.AssemblyReference.cache
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\obj\Debug\net6.0\DZ41-ur6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\obj\Debug\net6.0\DZ41-ur6.AssemblyInfoInputs.cache
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\obj\Debug\net6.0\DZ41-ur6.AssemblyInfo.cs
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\obj\Debug\net6.0\DZ41-ur6.csproj.CoreCompileInputs.cache
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\obj\Debug\net6.0\DZ41-ur6.dll
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\obj\Debug\net6.0\refint\DZ41-ur6.dll
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\obj\Debug\net6.0\DZ41-ur6.pdb
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\obj\Debug\net6.0\DZ41-ur6.genruntimeconfig.cache
+C:\Users\Yran\Seminar3_S#\DZ41-ur6\obj\Debug\net6.0\ref\DZ41-ur6.dll
